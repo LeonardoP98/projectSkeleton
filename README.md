@@ -1,2 +1,0 @@
-# projectSkeleton
-Created with CodeSandbox
